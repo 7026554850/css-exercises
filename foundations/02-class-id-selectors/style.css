@@ -1,0 +1,19 @@
+.abc {
+    background-color: rgba(255,0,0,0.3);
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#a1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#a2 {
+    background-color: rgba(0,255,0,0.3);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.xyz {
+    font-size: 24px;
+}
